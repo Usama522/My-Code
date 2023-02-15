@@ -7,6 +7,8 @@ TagManager:
   - collects
   - CheckPint
   - Enemy
+  - Key
+  - Chest
   layers:
   - Default
   - TransparentFX
